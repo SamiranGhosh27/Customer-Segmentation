@@ -1,6 +1,6 @@
 # Customer-Segmentation
 # Team Members:
-  Subharanjan Mondal
+  Subharanjan Mondal\
   Samiran Ghosh
   Saikat Mondal
   Biswajit Mondal
