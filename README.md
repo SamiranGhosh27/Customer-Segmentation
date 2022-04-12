@@ -3,4 +3,4 @@
   Subharanjan Mondal\
   Samiran Ghosh\
   Saikat Mondal\
-  Biswajit Roy\
+  Biswajit Roy
